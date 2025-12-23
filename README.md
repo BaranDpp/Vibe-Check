@@ -34,7 +34,7 @@
     streamlit run app.py
     ```
 
-## 📷 How it Works
+## How it Works
 
 1.  Enter an English sentence or paragraph in the text area.
 2.  Click the **"Analiz Et 🔍"** button.
